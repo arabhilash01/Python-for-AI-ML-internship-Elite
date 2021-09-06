@@ -1,5 +1,5 @@
 # Python-for-AI-ML-internship-Elite
-Inventory Management System 
+Inventory Management System\n
 Inventory management refers to the process of ordering, storing, using, and selling a company's inventory. This includes the management of raw materials, components, and finished products, as well as warehousing and processing of such items.
 #Files
 add_products.ipynb        To add new products to the repository
